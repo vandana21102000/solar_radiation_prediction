@@ -1,4 +1,4 @@
-<h1 align="center" id="title">☀️ Solar Radiation Prediction App</h1>
+<h1 align="center" id="title">☀️ Solar Radiation Prediction</h1>
 
 <p align="center">
   <img src="img.jpg" alt="project-banner">
@@ -6,7 +6,7 @@
 
 
 <p id="description">
-Solar Radiation Prediction App is a machine learning-powered tool that estimates solar irradiance using meteorological and temporal features. Built for researchers, engineers, and environmentalists, this app empowers users to make informed energy and climate decisions using a user-friendly Streamlit interface.
+Solar Radiation Prediction is a machine learning-powered tool that estimates solar irradiance using meteorological and temporal features. Built for researchers, engineers, and environmentalists, this app empowers users to make informed energy and climate decisions using a user-friendly Streamlit interface.
 </p>
 
 ---
@@ -21,7 +21,7 @@ Solar Radiation Prediction App is a machine learning-powered tool that estimates
 
 ## 🧠 Features
 
-Some of the core features of the Solar Radiation App:
+Some of the core features of the Solar Radiation Prediction:
 
 - 🔆 **Solar Radiation Estimation**  
   Predict solar radiation (W/m²) using features like temperature, humidity, wind direction/speed, and sun timings.
