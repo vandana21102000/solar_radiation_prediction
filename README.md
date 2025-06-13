@@ -60,6 +60,7 @@ cd solar_radiation_app
 pip install -r requirements.txt
 streamlit run app.py
 
+---
 
 🔗 Useful Links
 📂 GitHub Repository: https://github.com/vandana21102000/solar_radiation_prediction.git
