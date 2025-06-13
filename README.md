@@ -1,8 +1,9 @@
 <h1 align="center" id="title">☀️ Solar Radiation Prediction App</h1>
 
 <p align="center">
-  <img src="https://socialify.git.ci/vandana21102000/solar_radiation_app/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" alt="project-banner">
+  <img src="img.jpg" alt="project-banner">
 </p>
+
 
 <p id="description">
 Solar Radiation Prediction App is a machine learning-powered tool that estimates solar irradiance using meteorological and temporal features. Built for researchers, engineers, and environmentalists, this app empowers users to make informed energy and climate decisions using a user-friendly Streamlit interface.
@@ -50,6 +51,19 @@ Technologies used in this project:
 
 ---
 
+🔗 Useful Links
+📂 GitHub Repository: https://github.com/vandana21102000/solar_radiation_prediction.git
+
+🌍 Dataset Source: Kaggle - Solar Energy Dataset https://www.kaggle.com/datasets/dronio/SolarEnergy
+
+---
+
+👩‍💻 Author
+Made with ❤️ by Vandana Udayakumar
+
+🌟 Show Your Support
+If you found this project useful, don’t forget to ⭐ the repository and share it with your peers!
+
 ## 🚀 Getting Started
 
 To run the project locally:
@@ -61,14 +75,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ---
-
-🔗 Useful Links
-📂 GitHub Repository: https://github.com/vandana21102000/solar_radiation_prediction.git
-
-🌍 Dataset Source: Kaggle - Solar Energy Dataset https://www.kaggle.com/datasets/dronio/SolarEnergy
-
-👩‍💻 Author
-Made with ❤️ by Vandana Udayakumar
-
-🌟 Show Your Support
-If you found this project useful, don’t forget to ⭐ the repository and share it with your peers!
