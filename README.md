@@ -53,7 +53,7 @@ Technologies used in this project:
 
 🔗 Useful Links
 📂 GitHub Repository: https://github.com/vandana21102000/solar_radiation_prediction.git
-
+🚀 Live Streamlit App: https://solarradiationprediction.streamlit.app/
 🌍 Dataset Source: Kaggle - Solar Energy Dataset https://www.kaggle.com/datasets/dronio/SolarEnergy
 
 ---
